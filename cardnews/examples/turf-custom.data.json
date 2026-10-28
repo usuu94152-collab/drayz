@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "DRAYZ · 하이록스 인조잔디 매트 맞춤 제작",
+    "fileName": "drayz-turf-custom",
+    "source": {
+      "label": "하이록스 인조잔디 매트 맞춤 제작 시공현장",
+      "url": "https://blog.naver.com/gur3034/224446806378",
+      "date": "2026. 10. 19."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "instagram": "@drayz_korea"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "photo-01.jpg",
+      "position": "50% 40%",
+      "alt": "블루 숫자 라인이 들어간 블랙 인조잔디 매트",
+      "badge": "DRAYZ · CUSTOM TURF MAT",
+      "kicker": "하이록스 인조잔디 매트 맞춤 제작",
+      "title": "우리 박스에 맞춘\n하이록스\n인조잔디 매트",
+      "tags": [
+        "컬러 커스텀",
+        "로고 & 레터링",
+        "고급 원단"
+      ],
+      "footer": "크로스핏 용품 전문점 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "split",
+      "name": "매트 고르는 기준",
+      "photo": "photo-00.jpg",
+      "position": "50% 62%",
+      "alt": "숫자 거리 표기가 들어간 블랙 인조잔디 매트",
+      "eyebrow": "INTRO · SLED TRAINING ZONE",
+      "title": "인조잔디 매트,\n꼭 따져볼 두 가지",
+      "body": "하이록스의 인기로 크로스핏 박스뿐 아니라 헬스장, PT샵, 필라테스 스튜디오에서도 슬레드 존을 많이 구성합니다. 공간에 어울리는 디자인인지, 매일 슬레드 훈련을 하여도 내구성이 뛰어난 원단인지 확인해 보세요.",
+      "tags": [
+        "공간에 어울리는 디자인",
+        "슬레드에 버티는 원단"
+      ]
+    },
+    {
+      "type": "gallery",
+      "name": "컬러 커스텀",
+      "eyebrow": "POINT 01 · COLOR CUSTOM",
+      "title": "원하는 색상 그대로,\n컬러 커스텀",
+      "body": "블랙, 그린은 물론 그레이, 민트, 레드, 블루까지 베이스 컬러를 고르고, 라인도 포인트 컬러로 바꿀 수 있습니다.",
+      "items": [
+        {
+          "photo": "photo-06.jpg",
+          "position": "50% 55%",
+          "alt": "오렌지 테두리를 두른 블랙 매트",
+          "title": "블랙 × 오렌지",
+          "text": "강렬하고 힙한 느낌"
+        },
+        {
+          "photo": "photo-09.jpg",
+          "position": "50% 60%",
+          "alt": "화이트 라인을 넣은 그린 매트",
+          "title": "그린 × 화이트",
+          "text": "실제 경기장 같은 산뜻함"
+        },
+        {
+          "photo": "photo-05.jpg",
+          "position": "50% 55%",
+          "alt": "민트 색상 인조잔디 매트",
+          "title": "민트 베이스",
+          "text": "나만의 독특한 매트"
+        },
+        {
+          "photo": "photo-01.jpg",
+          "position": "50% 88%",
+          "alt": "블루 숫자 라인 블랙 매트",
+          "title": "블랙 × 블루",
+          "text": "박스 테마 컬러에 맞춘 라인"
+        }
+      ]
+    },
+    {
+      "type": "options",
+      "name": "로고와 레터링",
+      "photo": "photo-04.jpg",
+      "position": "50% 70%",
+      "alt": "HYBRID TRAINING 레터링이 들어간 그린 매트",
+      "eyebrow": "POINT 02 · LOGO & LETTERING",
+      "title": "박스의 얼굴이 되는\n로고 & 레터링",
+      "body": "센터 로고와 영문 센터명은 물론 HYROX, HYBRID TRAINING 같은 레터링까지 원하시는 위치에 넣어드립니다.",
+      "options": [
+        {
+          "title": "센터 로고",
+          "text": "박스의 심볼 그대로"
+        },
+        {
+          "title": "영문 센터명",
+          "text": "원하는 위치에 배치"
+        },
+        {
+          "title": "레터링",
+          "text": "HYROX · HYBRID TRAINING"
+        },
+        {
+          "title": "컬러 로고",
+          "text": "여러 색도 왜곡 없이"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "name": "브랜딩 사례",
+      "eyebrow": "POINT 02 · BRANDING",
+      "title": "입구에서부터 보이는\n박스의 아이덴티티",
+      "body": "사진이나 영상 콘텐츠를 촬영할 때도 시각적인 임팩트가 커서 체육관 브랜딩에 큰 도움이 됩니다.",
+      "items": [
+        {
+          "photo": "photo-03.jpg",
+          "position": "50% 70%",
+          "alt": "HYROX 레터링 매트",
+          "title": "HYROX 레터링",
+          "text": "경기장 느낌 그대로"
+        },
+        {
+          "photo": "photo-10.jpg",
+          "position": "50% 50%",
+          "alt": "영문 센터명이 들어간 매트",
+          "title": "영문 센터명",
+          "text": "ONLY UP TRAINING CENTER"
+        },
+        {
+          "photo": "photo-02.jpg",
+          "position": "50% 70%",
+          "alt": "브랜드 로고가 들어간 매트",
+          "title": "브랜드 로고",
+          "text": "단색 로고 깔끔하게"
+        },
+        {
+          "photo": "photo-07.jpg",
+          "position": "50% 55%",
+          "alt": "오렌지 레터링 매트",
+          "title": "컬러 레터링",
+          "text": "오렌지 포인트 라인과 함께"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "name": "고급 원단",
+      "photo": "photo-03.jpg",
+      "position": "50% 62%",
+      "alt": "HYROX 레터링이 들어간 블랙 인조잔디 매트",
+      "eyebrow": "POINT 03 · PREMIUM TURF",
+      "title": "슬레드 훈련에도\n끄떡없는 고급 원단",
+      "body": "밀도와 복원력이 높은 원단을 사용해 슬레드 푸시·풀, 런지, 파머스 캐리 같은 고강도 동작에도 밀림과 눌림이 적습니다.",
+      "points": [
+        {
+          "title": "미끄럼 방지",
+          "text": "적절한 마찰력"
+        },
+        {
+          "title": "바닥 보호 · 저소음",
+          "text": "촘촘한 원단"
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "photo-06.jpg",
+      "position": "50% 40%",
+      "alt": "오렌지 테두리 블랙 인조잔디 매트",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "매트 하나로 완성하는\n트레이닝 존",
+      "body": "DRAYZ에서는 하이록스 유행 초기부터 수많은 시공 사례와 코치님들의 피드백으로 계속 보완하고 있습니다.\n공간 사이즈와 원하시는 디자인을 편하게 문의해주세요.",
+      "note": "크로스핏 용품 · 헬스용품 · 박스 오픈 준비의 모든 것, DRAYZ"
+    }
+  ]
+}

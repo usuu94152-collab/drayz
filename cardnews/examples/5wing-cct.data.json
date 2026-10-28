@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "DRAYZ · 공군 제5공중기동비행단 공정통제사 인조잔디 매트",
+    "fileName": "drayz-5wing-cct",
+    "source": {
+      "label": "김해 공군 제5공중기동비행단 공정통제사 인조잔디 매트 납품 현장",
+      "url": "https://blog.naver.com/gur3034",
+      "date": "2026. 10."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "contact": {
+      "type": "store",
+      "text": "smartstore.naver.com/tkfit"
+    }
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "emblem.jpg",
+      "position": "92% 50%",
+      "alt": "Last Out 레터링과 부대 마크가 들어간 블랙 인조잔디 트랙",
+      "badge": "김해 · 공군 제5공중기동비행단",
+      "kicker": "공정통제사(CCT) 인조잔디 매트 납품",
+      "title": "부대 구호를 새긴\n맞춤 인조잔디 트랙",
+      "tags": [
+        "First There, Last Out",
+        "부대 마크",
+        "2레인 트랙"
+      ],
+      "footer": "크로스핏 용품 전문점 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "photo",
+      "name": "부대 구호 레터링",
+      "photo": "track.jpg",
+      "position": "50% 50%",
+      "alt": "출발선의 First There 레터링",
+      "badge": "POINT 01 · MOTTO",
+      "title": "First There, Last Out",
+      "body": "출발선엔 First There, 반대편 끝엔 Last Out.\n트랙을 왕복하며 따라가는 부대 구호."
+    },
+    {
+      "type": "split",
+      "name": "부대 마크",
+      "photo": "emblem.jpg",
+      "position": "55% 50%",
+      "alt": "트랙 중앙의 R.O.K.A.F COMBAT CONTROL 부대 마크",
+      "eyebrow": "POINT 02 · EMBLEM",
+      "title": "디테일을 살린\n부대 마크",
+      "body": "트랙 중앙의 R.O.K.A.F COMBAT CONTROL 마크.\n월계수·지구·낙하산까지 뭉개짐 없는 표현.",
+      "tags": [
+        "화이트 부대 마크",
+        "세밀한 디테일"
+      ]
+    },
+    {
+      "type": "options",
+      "name": "기능 구성",
+      "photo": "emblem.jpg",
+      "position": "50% 82%",
+      "alt": "2레인 라인과 거리 마킹",
+      "eyebrow": "POINT 03 · TRAINING TRACK",
+      "title": "2레인 트랙,\n고밀도 원단",
+      "body": "슬레드 푸시·풀, 런지, 스프린트까지.\n두 명이 동시에 훈련하는 구성.",
+      "options": [
+        {
+          "title": "2레인 구성",
+          "text": "두 명 동시 훈련"
+        },
+        {
+          "title": "거리 마킹",
+          "text": "구간 훈련 · 기록 측정"
+        },
+        {
+          "title": "고밀도 원단",
+          "text": "눌림 · 마모 최소화"
+        },
+        {
+          "title": "미끄럼 방지",
+          "text": "안정적인 지지력"
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "emblem.jpg",
+      "position": "8% 50%",
+      "alt": "블랙 인조잔디 트랙의 화이트 라인",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "체력단련장에 맞춘\n인조잔디 매트",
+      "body": "크로스핏 박스·헬스장·PT샵부터\n학교·공공기관·군부대까지.\n부대·기관 체력단련장 구성, DRAYZ에 문의해주세요.",
+      "note": "대원분들의 안전과 무운을 DRAYZ도 응원합니다."
+    }
+  ]
+}

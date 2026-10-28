@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "DRAYZ × GLAMFIT · 인조잔디 매트 카드뉴스",
+    "fileName": "glamfit-cardnews",
+    "source": {
+      "label": "DRAYZ 글램핏 소개 글",
+      "url": "https://blog.naver.com/gur3034/224430266797",
+      "date": "2026. 10. 3."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "instagram": "@drayz_korea"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "photo-1.jpg",
+      "position": "50% 50%",
+      "alt": "글램핏 중앙 블랙 인조잔디 매트와 운동 공간",
+      "badge": "인천 가좌동 · GLAMFIT",
+      "kicker": "글램핏 인조잔디 매트 납품 현장",
+      "title": "공간의 인상을 바꾸는\n블랙 & 골드\n트레이닝 매트",
+      "tags": [
+        "맞춤 로고",
+        "하이록스",
+        "기능성 트레이닝"
+      ],
+      "footer": "운동 공간을 만드는 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "location",
+      "name": "위치와 스튜디오 소개",
+      "map": "map.png",
+      "mapAlt": "글램핏 주변 위치 안내 약도",
+      "eyebrow": "LOCATION & INTRO",
+      "title": "내 몸에 맞는 움직임을 찾는,\n가좌동 1:1 PT",
+      "body": "인천 가좌동의 움직임 전문 스튜디오, 글램핏입니다. 웨이트, 필라테스, 기능성 운동을 통합해 개인의 움직임을 분석하고 지도합니다. 체형교정부터 퍼포먼스와 근력 향상까지, 수업 영상 피드백을 더한 1:1 맞춤 코칭을 진행합니다.",
+      "features": [
+        {
+          "icon": "bus",
+          "title": "593번 버스",
+          "text": "진주아파트2단지 · 도보 1분"
+        },
+        {
+          "icon": "building",
+          "title": "모건프라자 4층",
+          "text": "장고개로337번길 7 · 401호"
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "name": "1:1 움직임 코칭",
+      "photo": "photo-2.jpg",
+      "position": "50% 50%",
+      "alt": "미러월과 웨이트 기구가 있는 글램핏 내부",
+      "badge": "POINT 01 · 1:1 COACHING",
+      "title": "내 몸에 맞는 움직임을 찾는 곳. 글램핏",
+      "body": "10년 경력을 바탕으로 웨이트, 필라테스, 기능성 운동을 한 곳에서 경험할 수 있습니다. 움직임 분석과 체형교정, 수업 영상 피드백을 더한 1:1 맞춤 코칭을 진행합니다."
+    },
+    {
+      "type": "photo",
+      "name": "로고와 컬러",
+      "photo": "photo-3.jpg",
+      "position": "50% 55%",
+      "alt": "화이트 글램핏 문구와 골드 엠블럼이 들어간 인조잔디 매트",
+      "badge": "POINT 02 · LOGO & COLOR",
+      "title": "매트 위에 담은\n글램핏의 아이덴티티",
+      "body": "화이트 문구와 골드 엠블럼을 담은 매트는 화이트 & 골드 톤 인테리어와\n자연스럽게 어우러지도록 제작했습니다."
+    },
+    {
+      "type": "split",
+      "name": "거리 표기와 라인",
+      "photo": "photo-2.jpg",
+      "position": "50% 78%",
+      "alt": "매트 위에 표시된 화이트 거리 표기와 라인",
+      "eyebrow": "POINT 03 · LINE & DISTANCE",
+      "title": "이동 거리와 기록을\n한눈에 확인하도록",
+      "body": "화이트 마킹으로 구간별 거리 표기를 더했습니다. 슬레드 훈련 중 이동 거리를 한눈에 확인할 수 있습니다.",
+      "tags": [
+        "구간별 거리 표기",
+        "화이트 라인 마킹"
+      ]
+    },
+    {
+      "type": "photo",
+      "name": "운동 공간의 조화",
+      "photo": "photo-1.jpg",
+      "position": "50% 50%",
+      "alt": "우드 바닥과 러버 매트 사이에 구분된 인조잔디 트레이닝 구역",
+      "badge": "POINT 04 · ZONING",
+      "title": "머신 존과 프리웨이트 존 사이\n운동 구역을 정돈하다",
+      "body": "길게 깔린 블랙 인조잔디가 머신 존과 프리웨이트 존의 운동 구역을 자연스럽게 나눕니다."
+    },
+    {
+      "type": "feature",
+      "name": "기능성 트레이닝",
+      "photo": "photo-4.jpg",
+      "position": "50% 84%",
+      "alt": "슬레드가 놓인 글램핏 인조잔디 훈련 구역",
+      "eyebrow": "POINT 05 · FUNCTIONAL TRAINING",
+      "title": "슬레드 푸시부터\n스프린트까지",
+      "body": "슬레드 푸시·풀과 스프린트 등 기능성 훈련을 위한 인조잔디 매트입니다.",
+      "points": [
+        {
+          "title": "미끄럼 방지",
+          "text": "고급 원단 사용"
+        },
+        {
+          "title": "슬레드 마찰 대응",
+          "text": "내구성을 갖춘 매트"
+        }
+      ]
+    },
+    {
+      "type": "options",
+      "name": "맞춤 제작 옵션",
+      "photo": "photo-3.jpg",
+      "position": "50% 56%",
+      "alt": "글램핏 로고를 적용한 블랙 인조잔디 매트",
+      "eyebrow": "POINT 06 · CUSTOM MADE",
+      "title": "우리 공간에 맞게,\n바닥부터 맞춤 제작",
+      "body": "DRAYZ에서는 코치님이 원하는 디자인, 컬러, 사이즈로 맞춤 제작하고 있습니다. 스튜디오의 브랜드 아이덴티티를 매트에 담아보세요.",
+      "options": [
+        {
+          "title": "로고",
+          "text": "스튜디오의 이름과 심볼"
+        },
+        {
+          "title": "컬러",
+          "text": "공간에 어우러지는 톤"
+        },
+        {
+          "title": "라인",
+          "text": "훈련 구역을 나누는 표시"
+        },
+        {
+          "title": "거리 표기",
+          "text": "이동 거리를 확인하는 눈금"
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "photo-4.jpg",
+      "position": "50% 50%",
+      "alt": "글램핏 매트 납품을 완료한 운동 공간",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "운동 공간의 다음 변화,\nDRAYZ와 함께",
+      "body": "크로스핏 박스, 헬스장, PT샵의 인조잔디 매트 제작과 장비 납품.\n로고와 컬러까지 맞춘 매트가 궁금하다면\n언제든지 편하게 문의해주세요.",
+      "note": "글램핏에서의 안전하고 즐거운 운동을 응원합니다."
+    }
+  ]
+}
