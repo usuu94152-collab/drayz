@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "DRAYZ · 개인 홈짐 사선 스테이션 설치",
+    "fileName": "drayz-homegym-station",
+    "source": {
+      "label": "개인 홈짐 사선 스테이션 설치 현장 - 스쿼트 랙 캐쳐바 원판정리대",
+      "url": "https://blog.naver.com/gur3034",
+      "date": "2026. 10."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "contact": {
+      "type": "store",
+      "text": "smartstore.naver.com/tkfit"
+    }
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "front.jpg",
+      "position": "50% 50%",
+      "alt": "정면에서 본 사선형 스테이션과 풀업바",
+      "badge": "개인 홈짐 · 설치 현장",
+      "kicker": "사선 스테이션 · 스쿼트 랙 · 캐쳐바 납품",
+      "title": "작은 공간에 완성한\n홈짐 스테이션",
+      "tags": [
+        "사선형 스테이션",
+        "스트랩 캐쳐바",
+        "원판정리대"
+      ],
+      "footer": "크로스핏 용품 전문점 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "split",
+      "name": "사선형 스테이션",
+      "photo": "angle.jpg",
+      "position": "50% 72%",
+      "alt": "사선 보강대와 DRAYZ 로고 플레이트",
+      "eyebrow": "POINT 01 · DIAGONAL STATION",
+      "title": "공간을 넓게 쓰는\n사선형 스테이션",
+      "body": "주 기둥과 사선 보강대만으로 잡는 흔들림.\n앵커 고정으로 풀업·바벨 거치도 안정적.",
+      "tags": [
+        "작은 설치 면적",
+        "바닥 앵커 고정"
+      ]
+    },
+    {
+      "type": "options",
+      "name": "스쿼트 랙과 캐쳐바",
+      "photo": "base-top.jpg",
+      "position": "50% 30%",
+      "alt": "바벨을 받아주는 스트랩 캐쳐바",
+      "eyebrow": "POINT 02 · SAFETY",
+      "title": "혼자서도 안심,\n스트랩 캐쳐바",
+      "body": "실패 지점에서 바벨을 받아주는 스트랩.\n충격·소음·코팅 손상까지 줄인 구성.",
+      "options": [
+        {
+          "title": "스트랩 캐쳐바",
+          "text": "실패 지점 안전 확보"
+        },
+        {
+          "title": "넘버링 홀",
+          "text": "같은 높이로 빠른 세팅"
+        },
+        {
+          "title": "J훅 스쿼트 랙",
+          "text": "스쿼트 · 벤치 · OHP"
+        },
+        {
+          "title": "풀업바",
+          "text": "풀업 · T2B · 레그레이즈"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "name": "보강대 원판정리대",
+      "photo": "plate-horn.jpg",
+      "position": "60% 35%",
+      "alt": "사선 보강대 끝의 원판 꽂이",
+      "eyebrow": "POINT 03 · NEW FEATURE",
+      "title": "새로운 기능,\n보강대 원판정리대",
+      "body": "사선 보강대 끝에 원판 꽂이를 더한 구성.\n별도 거치대 없이 스테이션 옆에 원판 정리.",
+      "points": [
+        {
+          "title": "공간 절약",
+          "text": "원판 거치대 자리 그대로"
+        },
+        {
+          "title": "짧은 동선",
+          "text": "원판 교체도 바로 옆에서"
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "wide.jpg",
+      "position": "52% 50%",
+      "alt": "원판과 함께 세팅된 사선형 스테이션",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "홈짐도 박스 못지않은\n장비로",
+      "body": "홈짐·PT샵·크로스핏 박스까지\n공간과 목적에 맞춘 스테이션 제작·설치.\n스테이션 구성, DRAYZ에 문의해주세요.",
+      "note": "매일 즐겁고 안전한 운동을 응원합니다."
+    }
+  ]
+}
