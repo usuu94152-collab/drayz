@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "DRAYZ · 스포짐 용산점 사선 스테이션 설치",
+    "fileName": "drayz-spogym-yongsan",
+    "source": {
+      "label": "용산 스포짐 헬스장 사선 스테이션 멀티정리대 설치 현장",
+      "url": "https://blog.naver.com/gur3034",
+      "date": "2026. 11."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "contact": {
+      "type": "store",
+      "text": "smartstore.naver.com/tkfit"
+    }
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "spogym-a.png",
+      "position": "40% 50%",
+      "alt": "스포짐 용산점 미러월을 따라 설치된 사선 스테이션",
+      "badge": "서울 용산 · 스포짐 용산점",
+      "kicker": "사선 스테이션 · 멀티정리대 설치",
+      "title": "미러월을 따라 완성한\n스테이션 라인",
+      "tags": [
+        "사선 스테이션",
+        "보강대 원판정리대",
+        "멀티정리대"
+      ],
+      "footer": "크로스핏 용품 전문점 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "split",
+      "name": "사선 스테이션",
+      "photo": "red-row.png",
+      "position": "50% 40%",
+      "alt": "벽면을 따라 일렬로 선 사선 스테이션",
+      "eyebrow": "POINT 01 · DIAGONAL STATION",
+      "title": "벽면을 따라 줄 세운\n사선 스테이션",
+      "body": "주 기둥과 사선 보강대로 잡는 흔들림.\n적은 기둥으로 거울 시야까지 확보.",
+      "tags": [
+        "작은 설치 면적",
+        "동시 운동 구역"
+      ]
+    },
+    {
+      "type": "feature",
+      "name": "보강대 정리대",
+      "photo": "horn.png",
+      "position": "45% 45%",
+      "alt": "사선 보강대에 단 원판 꽂이와 제이컵 거치대",
+      "eyebrow": "POINT 02 · NEW FEATURE",
+      "title": "처음 선보인\n보강대 정리대",
+      "body": "사선 보강대에 원판 꽂이와 제이컵 거치대.\n장비는 스테이션 바로 옆에 정리.",
+      "points": [
+        {
+          "title": "원판 정리",
+          "text": "별도 거치대 없이 바로 옆"
+        },
+        {
+          "title": "제이컵 정리",
+          "text": "바닥에 흩어지지 않게"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "name": "멀티정리대",
+      "photo": "rack-front.png",
+      "position": "50% 45%",
+      "alt": "바 레일과 평판 선반을 조합한 2칸 멀티정리대",
+      "eyebrow": "POINT 03 · MULTI RACK",
+      "title": "소도구를 한곳에,\n멀티정리대",
+      "body": "상단 바 레일과 하단 평판 선반의 조합.\n스테이션과 같은 블랙 프레임의 2칸 모듈.",
+      "tags": [
+        "바 레일 + 선반",
+        "2칸 모듈"
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "spogym-b.png",
+      "position": "45% 50%",
+      "alt": "우드 플랫폼과 함께 정돈된 스포짐 스테이션 구역",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "헬스장에 맞춘\n스테이션 구성",
+      "body": "헬스장·PT샵·크로스핏 박스까지\n보강대 활용까지 맞춘 스테이션 제작·설치.\n오픈·이전 준비 중이시라면 DRAYZ에 문의해주세요.",
+      "note": "스포짐 용산점의 큰 발전을 응원합니다."
+    }
+  ]
+}
