@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "DRAYZ · TKFIT에서 DRAYZ로 리브랜딩",
+    "fileName": "drayz-rebrand",
+    "source": {
+      "label": "TKFIT이 DRAYZ로 새롭게 시작합니다 - 리브랜딩 안내",
+      "url": "https://blog.naver.com/gur3034",
+      "date": "2026. 11."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "contact": {
+      "type": "store",
+      "text": "smartstore.naver.com/tkfit"
+    }
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "rope.png",
+      "position": "50% 30%",
+      "alt": "DRAYZ 로고가 새겨진 로프 손잡이",
+      "badge": "NEW BRAND · 2026.10",
+      "kicker": "TKFIT이 DRAYZ로 새롭게 시작합니다",
+      "title": "한계를 넘어서는 힘,\nDRAYZ",
+      "tags": [
+        "리브랜딩 안내",
+        "구 TKFIT"
+      ],
+      "footer": "크로스핏 용품 전문점 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "split",
+      "name": "이름에 담은 의미",
+      "photo": "plates.png",
+      "position": "50% 20%",
+      "alt": "DRAYZ 로고가 들어간 컬러 범퍼플레이트",
+      "eyebrow": "POINT 01 · BRAND STORY",
+      "title": "D·R·A·Y·Z,\n이름에 담은 다섯 가지 힘",
+      "body": "추진력으로 출발해 정점까지.\n한계를 넘는 순간을 함께하는 이름.",
+      "tags": [
+        "D · Drive 추진력",
+        "R · Rise 도약",
+        "A · Ambition 열망",
+        "Y · Youth 에너지",
+        "Z · Zenith 정점"
+      ]
+    },
+    {
+      "type": "gallery",
+      "name": "새 로고 장비",
+      "eyebrow": "POINT 02 · NEW LOGO",
+      "title": "새 로고를 입은\nDRAYZ 장비",
+      "body": "범퍼플레이트부터 월볼, 스테이션까지 같은 로고로 공간에 통일감.",
+      "items": [
+        {
+          "photo": "wallball.png",
+          "position": "50% 30%",
+          "alt": "무게별 컬러 로고 월볼",
+          "title": "월볼",
+          "text": "4~30LB 무게별 컬러"
+        },
+        {
+          "photo": "target.png",
+          "position": "50% 35%",
+          "alt": "DRAYZ 각인 스테인리스 더블 타겟판",
+          "title": "월볼 타겟판",
+          "text": "스테인리스 더블 타겟"
+        },
+        {
+          "photo": "station.png",
+          "position": "50% 75%",
+          "alt": "DRAYZ 로고 플레이트가 붙은 풀업 스테이션",
+          "title": "풀업 스테이션",
+          "text": "기둥마다 로고 플레이트"
+        },
+        {
+          "photo": "rope.png",
+          "position": "50% 40%",
+          "alt": "DRAYZ 로고 로프 손잡이",
+          "title": "로프",
+          "text": "손잡이에 새긴 로고"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "name": "그대로인 것",
+      "photo": "site.jpg",
+      "position": "50% 45%",
+      "alt": "인조잔디 트랙과 고무매트가 시공된 운동 공간",
+      "eyebrow": "POINT 03 · NONSTOP SERVICE",
+      "title": "이름만 새로워졌을 뿐,\n서비스는 그대로",
+      "body": "장비 제작부터 납품·바닥 시공까지 한 번에.\n공간에 맞춘 맞춤 제작도 변함없이.",
+      "points": [
+        {
+          "title": "스토어 주소 그대로",
+          "text": "smartstore.naver.com/tkfit"
+        },
+        {
+          "title": "맞춤 제작 그대로",
+          "text": "로고·컬러·라인 커스텀"
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "station.png",
+      "position": "0% 50%",
+      "alt": "DRAYZ 풀업 스테이션이 늘어선 운동 공간",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "그동안 TKFIT을 믿어주셔서\n감사합니다",
+      "body": "크로스핏·하이록스 장비부터 바닥 시공까지\n박스 오픈 준비의 모든 것.\n새 이름 DRAYZ에 편하게 문의해주세요.",
+      "note": "DRAYZ — 한계를 넘어서는 힘"
+    }
+  ]
+}
