@@ -18,6 +18,8 @@ try:
 except ImportError:
     sys.exit('Pillow 가 필요합니다: pip install --break-system-packages pillow')
 
+FONT_LINK_RE = re.compile(r'<link[^>]*pretendard[^>]*>', re.I)
+FONT_FILE = Path(__file__).resolve().parent / 'vendor/pretendard/dist/web/variable/woff2/PretendardVariable.woff2'
 DATA_RE = re.compile(r'(<script type="application/json" id="cardnews-data">)(.*?)(</script>)', re.S)
 ASSETS_RE = re.compile(r'(<script type="application/json" id="cardnews-assets">)(.*?)(</script>)', re.S)
 
@@ -35,6 +37,21 @@ def encode_photo(path: Path, max_side=1600, quality=86) -> str:
     buf = io.BytesIO()
     im.save(buf, 'JPEG', quality=quality, optimize=True, progressive=True)
     return 'data:image/jpeg;base64,' + base64.b64encode(buf.getvalue()).decode()
+
+
+def embed_font(html: str) -> str:
+    """jsdelivr 글꼴 링크를 Pretendard 원본(woff2)을 담은 @font-face 로 바꾼다.
+    어디서 열어도(오프라인·앱 안 브라우저) 편집 화면과 브라우저 JPG 저장이 같은 글꼴로 나오게 하기 위함."""
+    if not FONT_FILE.is_file():
+        print('⚠ Pretendard 파일이 없어 글꼴을 넣지 못했어요 (bash tools/setup.sh 먼저 실행). 온라인 링크로 둡니다.')
+        return html
+    b64 = base64.b64encode(FONT_FILE.read_bytes()).decode()
+    style = ('<style id="cardnews-font">/* Pretendard Variable v1.3.9 · SIL OFL 1.1 · github.com/orioncactus/pretendard */\n'
+             "@font-face{font-family:'Pretendard Variable';font-weight:45 920;font-style:normal;font-display:block;"
+             f"src:url(data:font/woff2;base64,{b64}) format('woff2');}}</style>")
+    if FONT_LINK_RE.search(html):
+        return FONT_LINK_RE.sub(lambda _: style, html, count=1)
+    return html.replace('</head>', style + '\n</head>', 1)
 
 
 def main():
@@ -82,6 +99,7 @@ def main():
 
     html = DATA_RE.sub(lambda mm: mm.group(1) + '\n' + to_json(data, 2) + '\n' + mm.group(3), html, count=1)
     html = ASSETS_RE.sub(lambda mm: mm.group(1) + to_json(assets) + mm.group(3), html, count=1)
+    html = embed_font(html)
     Path(args.out).write_text(html, encoding='utf-8')
     print(f'만듦: {args.out} ({len(html)//1024} KB, 카드 {len(data["slides"])}장, 사진 {len(encoded)}장)')
 

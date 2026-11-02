@@ -22,6 +22,10 @@ python3 -I tools/fill.py --master index.html --data data.json --photos 사진폴
 node tools/render.mjs 결과.html out --jpg             # 넘침 보고 + out/preview.png + JPG
 ```
 
+> `fill.py`는 결과 HTML에 Pretendard 글꼴(woff2)을 직접 넣습니다(약 +2.7MB).
+> 인터넷이 막히거나 앱 안 브라우저에서 열어도 편집 화면과 "JPG 저장"이 같은 글꼴로 나옵니다.
+> 글꼴 파일은 `tools/setup.sh`가 `tools/vendor/`에 받아 둡니다.
+
 ## 카드 종류 (`type`)
 
 | type | 모양 | 사진 |
