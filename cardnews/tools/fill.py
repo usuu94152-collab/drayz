@@ -20,6 +20,8 @@ except ImportError:
 
 FONT_LINK_RE = re.compile(r'<link[^>]*pretendard[^>]*>', re.I)
 FONT_FILE = Path(__file__).resolve().parent / 'vendor/pretendard/dist/web/variable/woff2/PretendardVariable.woff2'
+SCRIPT_RE = re.compile(r'<script[^>]*html-to-image[^>]*></script>', re.I)
+SCRIPT_FILE = Path(__file__).resolve().parent / 'vendor/html-to-image/dist/html-to-image.js'
 DATA_RE = re.compile(r'(<script type="application/json" id="cardnews-data">)(.*?)(</script>)', re.S)
 ASSETS_RE = re.compile(r'(<script type="application/json" id="cardnews-assets">)(.*?)(</script>)', re.S)
 
@@ -52,6 +54,18 @@ def embed_font(html: str) -> str:
     if FONT_LINK_RE.search(html):
         return FONT_LINK_RE.sub(lambda _: style, html, count=1)
     return html.replace('</head>', style + '\n</head>', 1)
+
+
+def embed_script(html: str) -> str:
+    """jsdelivr 의 html-to-image 링크를 파일 안에 직접 넣는다.
+    링크로 두면 인터넷이 막힌 곳(앱 안 미리보기 등)에서 'JPG 저장'이 '이미지 저장 도구를 불러오지 못했어요'로 실패한다."""
+    if not SCRIPT_FILE.is_file():
+        print('⚠ html-to-image 파일이 없어 저장 도구를 넣지 못했어요 (bash tools/setup.sh 먼저 실행). 온라인 링크로 둡니다.')
+        return html
+    code = SCRIPT_FILE.read_text(encoding='utf-8')
+    code = re.sub(r'//# sourceMappingURL=.*', '', code).replace('</script', '<\\/script')
+    tag = '<script id="cardnews-html-to-image">/* html-to-image 1.11.11 · MIT */\n' + code + '\n</script>'
+    return SCRIPT_RE.sub(lambda _: tag, html, count=1)
 
 
 def main():
@@ -99,7 +113,7 @@ def main():
 
     html = DATA_RE.sub(lambda mm: mm.group(1) + '\n' + to_json(data, 2) + '\n' + mm.group(3), html, count=1)
     html = ASSETS_RE.sub(lambda mm: mm.group(1) + to_json(assets) + mm.group(3), html, count=1)
-    html = embed_font(html)
+    html = embed_script(embed_font(html))
     Path(args.out).write_text(html, encoding='utf-8')
     print(f'만듦: {args.out} ({len(html)//1024} KB, 카드 {len(data["slides"])}장, 사진 {len(encoded)}장)')
 
