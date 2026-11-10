@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "DRAYZ · 레전드복싱 슬레드·덤벨·드랍매트·점프박스 납품",
+    "fileName": "drayz-legend-boxing",
+    "source": {
+      "label": "김해 장유 레전드복싱 슬레드 덤벨 드랍매트 점프박스 납품 현장",
+      "url": "https://blog.naver.com/gur3034",
+      "date": "2026. 11."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "contact": {
+      "type": "store",
+      "text": "smartstore.naver.com/tkfit"
+    }
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "cover-sled-rope.jpg",
+      "position": "50% 35%",
+      "alt": "레전드복싱 홀에 놓인 블랙·그레이 슬레드와 로프",
+      "badge": "김해 장유 · 레전드복싱",
+      "kicker": "슬레드 · 덤벨 · 드랍매트 · 점프박스 납품",
+      "title": "샌드백 옆에 채운\n체력운동 존",
+      "tags": [
+        "슬레드",
+        "덤벨",
+        "드랍매트",
+        "점프박스"
+      ],
+      "footer": "크로스핏 용품 전문점 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "split",
+      "name": "슬레드",
+      "photo": "sled-black.jpg",
+      "position": "50% 80%",
+      "alt": "원판 꽂이가 달린 블랙 슬레드와 그레이 H프레임 슬레드",
+      "eyebrow": "POINT 01 · SLED",
+      "title": "밀고 당기며 키우는\n하체 파워 슬레드",
+      "body": "원판 꽂이형과 로프 연결형, 두 가지 구성.\n무게는 원판 수로 조절.",
+      "tags": [
+        "플레이트 로딩",
+        "푸시 · 풀"
+      ]
+    },
+    {
+      "type": "split",
+      "name": "덤벨",
+      "photo": "dumbbell.jpg",
+      "position": "50% 75%",
+      "alt": "5LB부터 35LB까지 늘어놓은 육각 러버 덤벨",
+      "eyebrow": "POINT 02 · DUMBBELL",
+      "title": "5LB부터 차근차근\n육각 러버 덤벨",
+      "body": "육각 헤드에 크롬 널링 손잡이.\n단계별로 골라 쓰는 중량 라인업.",
+      "tags": [
+        "육각 러버 헤드",
+        "단계별 중량"
+      ]
+    },
+    {
+      "type": "feature",
+      "name": "점프박스와 드랍매트",
+      "photo": "mat.jpg",
+      "position": "50% 65%",
+      "alt": "DRAYZ 로고가 들어간 블랙 드랍매트",
+      "eyebrow": "POINT 03 · BOX & MAT",
+      "title": "착지까지 챙긴\n점프박스 · 드랍매트",
+      "body": "20·24·30인치로 높이를 바꾸는 점프박스.\n옆면 손잡이가 달린 드랍매트.",
+      "points": [
+        {
+          "title": "3in1 점프박스",
+          "text": "한 박스로 세 가지 높이"
+        },
+        {
+          "title": "드랍매트",
+          "text": "블랙 바탕에 DRAYZ 로고"
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "box-line.jpg",
+      "position": "50% 20%",
+      "alt": "복싱 링 옆에 나란히 놓인 DRAYZ 점프박스",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "복싱장에 맞춘\n체력운동 장비 구성",
+      "body": "복싱 체육관·크로스핏 박스·헬스장까지\n오픈·이전 준비 중이시라면 DRAYZ에 문의해주세요.",
+      "note": "레전드복싱의 큰 발전을 응원합니다. 한계를 넘어서는 힘, DRAYZ"
+    }
+  ]
+}
