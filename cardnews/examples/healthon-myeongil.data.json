@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "DRAYZ · 헬스온피트니스 명일역점 스테이션·역도발판·바닥매트 납품",
+    "fileName": "drayz-healthon-myeongil",
+    "source": {
+      "label": "헬스온피트니스 명일역점 스테이션 역도발판 바닥매트 25T 납품 현장",
+      "url": "https://blog.naver.com/gur3034",
+      "date": "2026. 11."
+    }
+  },
+  "theme": {
+    "accent": "#ff663b"
+  },
+  "brand": {
+    "name": "DRAYZ",
+    "logo": "logo-drayz",
+    "contact": {
+      "type": "store",
+      "text": "smartstore.naver.com/tkfit"
+    }
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "name": "표지",
+      "photo": "station-a.jpg",
+      "position": "50% 50%",
+      "alt": "벽면을 따라 일렬로 선 DRAYZ 스테이션과 우드 역도발판",
+      "badge": "서울 강동 · 헬스온피트니스 명일역점",
+      "kicker": "스테이션 · 역도발판 · 바닥매트 25T 납품",
+      "title": "명일역 헬스장에 세운\n스테이션 라인",
+      "tags": [
+        "스테이션",
+        "역도발판",
+        "바닥매트 25T"
+      ],
+      "footer": "크로스핏 용품 전문점 DRAYZ",
+      "next": "넘겨서 보기 →"
+    },
+    {
+      "type": "split",
+      "name": "스테이션",
+      "photo": "station-front.jpg",
+      "position": "50% 35%",
+      "alt": "풀업바가 이어진 홀 기둥 스테이션 정면",
+      "eyebrow": "POINT 01 · STATION",
+      "title": "벽면을 따라 선\n홀 기둥 스테이션",
+      "body": "촘촘한 홀 간격으로 높이를 맞추는 기둥.\n풀업바와 바벨 거치를 한 구성에.",
+      "tags": [
+        "풀업바 포함",
+        "바벨 거치"
+      ]
+    },
+    {
+      "type": "split",
+      "name": "역도발판",
+      "photo": "station-b.jpg",
+      "position": "50% 100%",
+      "alt": "스테이션 앞에 깔린 우드 역도발판",
+      "eyebrow": "POINT 02 · PLATFORM",
+      "title": "스테이션 앞에 깐\n우드 역도발판",
+      "body": "스테이션마다 한 장씩 깔린 원목톤 발판.\n블랙 바닥 위에서 운동 위치가 한눈에.",
+      "tags": [
+        "운동 위치 구분",
+        "우드톤 포인트"
+      ]
+    },
+    {
+      "type": "feature",
+      "name": "바닥매트 25T",
+      "photo": "floor-done-wide.jpg",
+      "position": "50% 100%",
+      "alt": "시공을 마친 블랙 바닥매트와 알루미늄 마감 가장자리",
+      "eyebrow": "POINT 03 · FLOOR 25T",
+      "title": "한 장씩 맞춰 깐\n바닥매트 25T",
+      "body": "블랙 바탕에 화이트 점이 들어간 고무매트.\n가장자리는 알루미늄 마감재로 정리.",
+      "points": [
+        {
+          "title": "25T 두께",
+          "text": "충격을 받아주는 바닥"
+        },
+        {
+          "title": "이음 시공",
+          "text": "한 장씩 맞춰 깐 면"
+        }
+      ]
+    },
+    {
+      "type": "closing",
+      "name": "마무리와 문의",
+      "photo": "station-b.jpg",
+      "position": "50% 30%",
+      "alt": "정돈된 스테이션과 역도발판 구역",
+      "badge": "DRAYZ · SPACE & EQUIPMENT",
+      "title": "헬스장 오픈에 맞춘\n바닥부터 스테이션까지",
+      "body": "헬스장·PT샵·크로스핏 박스의 바닥매트, 스테이션, 역도발판.\n오픈·리모델링 준비 중이시라면\nDRAYZ에 문의해주세요.",
+      "note": "헬스온피트니스 명일역점의 큰 발전을 응원합니다. 한계를 넘어서는 힘, DRAYZ"
+    }
+  ]
+}
